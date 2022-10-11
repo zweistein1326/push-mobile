@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "push-mobile",
+    "slug": "push-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "push-mobile"
+}
